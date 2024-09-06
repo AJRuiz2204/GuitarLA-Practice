@@ -193,5 +193,6 @@ Este proyecto utiliza las siguientes herramientas y librerías:
 - [React](https://reactjs.org/) - Librería para construir interfaces de usuario.
 - [ESLint](https://eslint.org/) - Herramienta para identificar y reportar patrones en el código JavaScript.
 - [SWC](https://swc.rs/) - Un compilador JavaScript rápido que reemplaza Babel para React Fast Refresh.
+- [Curso_Udemy] (https://www.udemy.com/course/react-de-principiante-a-experto-creando-mas-de-10-aplicaciones/) - Aprende React desde cero: Hooks y State hasta TypeScript, Zod, Zustand, React Query, Next.js, React Router, MERN y PERN
 
 Si tienes alguna pregunta o sugerencia, no dudes en abrir un **issue** o enviar un **pull request**.
